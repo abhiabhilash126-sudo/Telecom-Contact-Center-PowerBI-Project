@@ -3,6 +3,7 @@ This is a Telecom contact center Power BI Project includes reporting.
 The data set for this project is a SQL 'Telecom Contact Center Data Ware House' database which is another project I made
 This report is meant for showing the Contact Center Performance: Overall, Daily, Weekly, Site, Manager, Team Leader and finally Agent
 There are few rows called unknown, any missing employee in employee table will be marked as unknown, another is N/A assigned for Abandoned calls as call never came to the contact center
+To view the report, please download the file and open to see all the reports included in the file, DO NOT refresh as the data source is a local in prem which will throw an error if refreshed.
 
 DAX formulas used:
 
