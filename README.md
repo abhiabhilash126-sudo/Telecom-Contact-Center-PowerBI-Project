@@ -1,5 +1,5 @@
 # Telecom-Contact-Center-PowerBI-Project
-This is a Telecom contact center Power BI Project includes reporting.
+This is a Telecom contact center Power BI Project, data consists of a year.
 The data set for this project is a SQL 'Telecom Contact Center Data Ware House' database which is another project I made
 This report is meant for showing the Contact Center Performance: Overall, Daily, Weekly, Site, Manager, Team Leader and finally Agent
 There are few rows called unknown, any missing employee in employee table will be marked as unknown, another is N/A assigned for Abandoned calls as call never came to the contact center
